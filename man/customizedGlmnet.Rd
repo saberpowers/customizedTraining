@@ -170,7 +170,3 @@ mean((y.test - predict(fit2, lambda = 10))^2)
 # Plot nonzero coefficients by group:
 plot(fit2, lambda = 10)
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
