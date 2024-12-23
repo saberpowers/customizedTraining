@@ -2,7 +2,7 @@ Package: customizedTraining
 Type: Package
 Title: Customized Training for Lasso and Elastic-Net Regularized Generalized
     Linear Models
-Version: 1.2
+Version: 1.3
 Date: 2019-01-28
 Author: Scott Powers, Trevor Hastie, Robert Tibshirani
 Maintainer: Scott Powers <saberpowers@gmail.com>
