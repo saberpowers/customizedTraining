@@ -27,7 +27,7 @@ implemented for both \code{customizedGlmnet()} and
 }
 \author{Scott Powers, Trevor Hastie, Robert Tibshirani
 
-Maintainer: Scott Powers <sspowers@stanford.edu>
+Maintainer: Scott Powers <saberpowers@gmail.com>
 }
 \references{
 Scott Powers, Trevor Hastie and Robert Tibshirani (2015) "Customized training
